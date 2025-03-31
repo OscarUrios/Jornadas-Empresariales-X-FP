@@ -1,0 +1,45 @@
+Director IES San Vicente
+Concejala de educación
+Alcalde de San Vicente
+|--> Discurso de bienvenida a las jornadas
+|--> Objetivo nueva ley
+|--> Explicación ponentes
+
+
+Pedro Prieto
+|--> AWS (Servers de hosting de amazon)
+|--> Charla sobre DEVOPS
+|	|--> DEVOPS' organization
+|	|--> Funcionamiento de microservicios
+|	|--> Infraestructura como código
+|	|	|--> Automatizar creación de maquinas virtuales
+|	|--> SERVERLESS
+|	|	|--> Despliegue automático de servidores en relación al numero de peticiones
+|	|--> Seguridad
+|	|	|--> Principio de mínimo privilegio
+|	|	|--> Detección automática de vulnerabilidades
+|--> Lanzamiento de aplicación
+|--> Test unitarios VS test de integración
+
+Enrique Mingorance
+|--> Red Hat
+|--> Dar servicios a empresas
+|--> Descripción de carrera profesional
+|--> Mayoría turno de preguntas (Q&A)
+
+Elad Rodríguez
+|--> Introducción
+|	|--> NitsNets
+|	|--> Descripción de carrera profesional
+|	|--> Resumen proyecto en alicante/san Vicente
+|	|--> Proyecto para la mejor pagina web del día (juego web)
+|--> Inteligencia artificial
+|	|--> Se apoya en la inteligencia artificial para generar una supuesta aplicación
+|	|	\--> *¿A partir de que punto tu dejas de ser el propietario de la aplicación que estas creando?
+|	|		\--> El concepto sigue siendo tuyo.
+|	|	\--> *¿Tu crees que los materiales como películas, música o libros debería tener su propia categorización?
+|	|		\--> Hay empresas que ya están en ello pero hace falta mas inversion porque cada vez es mas difícil diferenciar estos materiales.
+|	|--> Puntos sobre emprender un negocio/empresa
+|	|	|--> Ayudas
+|	|	|--> Presupuesto
+|	|	|--> Socios
