@@ -1,0 +1,20 @@
+Felipe Alonso
+|--> Desarrollo de juegos corporativos
+|	|--> Retención de jugadores
+|	|--> Feedback de usuarios
+|	|--> Eliminar procesos innecesarios
+
+Jorge Medina
+|--> Adaptación al crecimiento de la empresa
+
+Antonio Párraga
+|--> Inteligencia artificial
+|	|--> La inteligencia artificial nos reemplazará
+
+Jose Luis Gil
+|--> Bases de datos
+|	|--> Rendimiento de servidores
+|	|--> Consistencia, fiabilidad y rapidez al servir los datos en los diferentes tipos de bases de datos
+|	|--> Diferentes formas de conectar con un servidor
+|	|--> Copias de seguridad
+|	|--> Escalado horizontal (+ unidades) VS vertical (+ recursos/maquina)
