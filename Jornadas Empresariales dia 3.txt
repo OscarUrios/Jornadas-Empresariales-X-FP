@@ -1,0 +1,20 @@
+Juan Carlos
+|--> Google
+|	|--> Experiencia de google
+|	|--> Proceso de contratación
+|	|--> Como escalas y te adaptas dentro de la compañía
+
+Nicolas Lopez
+|--> Certificaciones de google cloud
+
+Mario 
+|--> Data analitics
+|	|--> Atender a las personas
+|	|--> Transparencia
+|	|--> Hacer las cosas sencillas
+\--> Has hablado de que para entrenar a las IAs hacen falta datos, entonces mi pregunta era ¿Que piensas de todas las empresas que cuando la inteligencia artificial todavía estaba dando sus primeros pasos, entrenaron sus IAs con datos sin permiso explicito de sus autores?
+\	\--> Lo hicieron libremente sin que hubieran regulaciones, ahora eso es ilegal. Hay derecho a reclamar pero puede ser costoso o inviable debido al tiempo y coste de lucha en juzgados.
+
+Yahima Duarte
+|--> Inicios en el mundo de la programación
+|--> Crecimiento profesional en España
