@@ -7,7 +7,7 @@ Juan Carlos
 Nicolas Lopez
 |--> Certificaciones de google cloud
 
-Mario 
+Mario de Felipe
 |--> Data analitics
 |	|--> Atender a las personas
 |	|--> Transparencia
