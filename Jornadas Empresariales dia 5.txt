@@ -1,0 +1,28 @@
+Victoria Alzamora
+|--> Empresa de 'transporte' espacial (Lanzan satélites)
+|--> Comienzos de la empresa
+|	|--> Valores de la empresa
+|--> Lanzamiento exitoso del MIURA 1 
+|--> Especificaciones MIURA 5
+|	|--> 35.7m de altura
+|	|--> 2m de diámetro
+|	|--> 5 Motores TEPREL-C 1º etapa
+|	|--> 1 Motor TEPREL-C 2ª etapa
+
+Isaac Julian (Altaskur)
+|--> Comienzos en el mundo empresarial
+|	|--> Crea y  mantén buenos hábitos.
+
+
+Jorge Muria
+|--> Que pasará cuando entremos a una empresa
+|--> Metodologías agiles
+|	|--> Fases del sistema 'waterfall'
+|	|--> Principios de las metodologías agiles
+|	|--> "Decadencia" de las metodologías agiles
+
+Alberto Manchado
+|--> Microservicios
+|--> Cloud Servers
+|--> Metodologías agiles
+|--> Ciberseguridad

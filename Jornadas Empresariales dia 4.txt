@@ -1,0 +1,41 @@
+Toni Martínez
+|--> Fortinet
+|	|--> Como utilizar la inteligencia artificial a tu favor
+
+José Gomez
+|--> Historia de internet
+|	|--> Las empresas buscan generar datos de usuarios (muy valiosos)
+|	|--> La ciberseguridad como asunto de estado
+|	|--> Teletrabajo se ha vuelto viable en muchos puestos de trabajo
+|--> Ciberseguridad
+|	|--> Tipos de ataque
+|	|--> Tipos de malware
+|	|--> Precio de los datos robados
+|	|--> Hacer análisis de riesgo
+|	|	|--> Departamento o area
+|	|	|--> Riesgo del activo
+|	|	|--> Daño del activo
+|	|--> Como evitar ataques
+|	|	|--> Gestion de roles
+|	|	|--> Control de dispositivos
+|	|	|--> Proteger contra malware
+|	|	|--> Monitorear trafico
+\--> Podrían ser las llaves de acceso físicas una alternativa o una mejora viable al doble factor.
+	\--> mejor que el 2FA pero poco utilizado
+
+Raúl Pérez
+|--> Evolución de las operaciones en IT
+|--> IAs generativas
+|--> Desarrollo continuo
+|	|--> Proceso de desarrollo se puede complicar
+|--> Innovaciones para el cambio
+|	|--> Manifesto agile
+|	|	|--> Presentaciones de alfas constantes al cliente
+|--> Mejoras en automatización
+|	|--Inteligencia artificial para agilizar tareas con servidores
+
+Elluz Rodríguez
+|--> Marketing
+|	|--> Charla auto-motivadora
+|	|	|--> Se tu mismo
+|	|--> Haz las cosas a tu manera
